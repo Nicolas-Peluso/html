@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2? family = Fonte + Código + Pro: ital, wght @ 1.600 & display = swap');
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+   
+
+}
+
+body {
+    background-color: #8E8DBE;
+    font-family: sans-serif; 
+    background-image: url(fundo_cadastro.jpg);
+    background-repeat: none;
+    background-size: cover;
+}
+
+#principal {
+
+    margin-left: 750px;
+    color: rgb(0, 0, 0);
+    margin-top: 1%;
+    font-family: sans-serif;
+
+
+}
+
+.formulario1 {
+    padding: 50px;
+    margin-left: 500px;
+    margin-top: 3%;
+    background-color: rgba(red, green, blue,6);
+    max-width: 35%;
+    border-radius: 50px;
+    border: 0px;
+    height: 800px;
+    font-family: sans-serif;
+    
+    
+
+}
+.formulario1  input[type="text"] {
+    display: inline;
+}
+
+#sub {
+    font-family: sans-serif;
+    font-size: x-large;
+    color: white;
+}
+
+#titulo-h3 {
+    font-family: sans-serif;
+
+}
+
+#titulo {
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    padding: 0.5em;
+
+
+}
+
+#secondname {
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    padding: 0.5em;
+
+}
+
+#mail {
+
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    padding: 0.5em;
+
+}
+
+#name {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2%;
+    width: 25%;
+    border-radius: 5px;
+    margin-top: 10px;
+    background-color: rgb(207, 207, 241);
+    box-shadow: 2px 2px 2px;
+
+
+
+}
+
+#sobrenome {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2%;
+    width: 25%;
+    border-radius: 5px;
+    background-color: rgba(207, 207, 241);
+    box-shadow: 2px 2px 2px;
+    display: block;
+
+
+}
+
+#email {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2%;
+    width: 35%;
+    border-radius: 5px;
+    background-color: rgba(207, 207, 241);
+    box-shadow: 2px 2px 2px;
+    
+
+}
+
+#dia {
+    background-color: rgb(233, 233, 245);
+    color: rgb(0, 0, 0);
+    padding: 1%;
+    border-radius: 8px;
+    border: 0px;
+    box-shadow: 2px 2px 2px;
+}
+
+#mes {
+    background-color: rgb(233, 233, 245);
+    color: rgb(0, 0, 0);
+    padding: 1%;
+    border-radius: 8px;
+    border: 0px;
+    box-shadow: 2px 2px 2px;
+}
+
+#ano {
+    background-color: rgb(233, 233, 245);
+    color: rgb(0, 0, 0);
+    padding: 1%;
+    border-radius: 8px;
+    border: 0px;
+    box-shadow: 2px 2px 2px;
+}
+
+
+#sexo {
+    margin-left: 5px;
+    font-family: sans-serif;
+    padding: 0.5em;
+    color: white;
+}
+
+.sex {
+    font-family: sans-serif;
+    display: inline-block;
+    margin-left: 5px;
+    font-size: large;
+    color: white;
+}
+
+#sobrenome:focus {
+    background-color: rgb(228, 228, 240);
+    transition: background 0.3s;
+    color: rgb(0, 0, 0);
+}
+
+#email:focus {
+    background-color: rgb(228, 228, 240);
+    transition: background 0.3s;
+    color: rgb(0, 0, 0);
+}
+
+#name:focus {
+    background-color: rgb(228, 228, 240);
+    transition: background 0.3s;
+    color: rgb(0, 0, 0);
+}
+
+#texto_check {
+    font-size: medium;
+}
+
+#button {
+    background-color: rgb(94, 94, 153);
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    box-shadow: 2px 2px 2px;
+    width: 100px;
+    font-size: medium;
+    border-radius: 5px;
+    border: 0px;
+    
+}
+
+#button:hover {
+    background-color: rgb(157, 157, 236);
+    transition: background 0.3s;
+
+}
+.formulario2{
+    border: 0em;
+    display: inline;
+    padding: 0.4em;
+}
+
+label{
+    color: white;
+}
