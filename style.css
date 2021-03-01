@@ -3,7 +3,7 @@
     margin: 0;
 }
 body{
-    background-image: url(fundo.jpg);
+    backgdround-image: url(fundo_login.jpg);
     background-repeat: none;
     background-size: cover;
 }
